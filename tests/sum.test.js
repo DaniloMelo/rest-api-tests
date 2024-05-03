@@ -5,7 +5,7 @@ describe("Test sum.js", () => {
     expect(sum(2, 2)).toBe(4)
   })
 
-  it("Shold return 6 when sum 4 + 2", () => {
+  it("Should return 6 when sum 4 + 2", () => {
     expect(sum(4, 2)).toBe(6)
   })
 })
